@@ -3,6 +3,9 @@
     --primary: #FEA116;
     --light: #F1F8FF;
     --dark: #0F172B;
+    /* --primary: #B1B2FF;
+    --light: #AAC4FF;
+    --dark: #B1B2FF; */
 }
 
 .fw-medium {
@@ -120,10 +123,10 @@
     height: 3rem;
 }
 
-/* #header-carousel .carousel-item {
+#header-carousel .carousel-item {
     position: relative;
     max-height: 600px;
-} */
+}
 
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
