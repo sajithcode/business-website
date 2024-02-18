@@ -120,6 +120,11 @@
     height: 3rem;
 }
 
+/* #header-carousel .carousel-item {
+    position: relative;
+    max-height: 600px;
+} */
+
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
         position: relative;
